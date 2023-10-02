@@ -8,4 +8,5 @@ When I'm not coding, I enjoy reading about new technologies, exploring the outdo
 
 Feel free to connect with me on GitHub and [![Linkedin Badge](https://img.shields.io/badge/Marcin%20Ignaszak-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&link=https://www.linkedin.com/in/marcin-ignaszak-4311a1172/)](https://www.linkedin.com/in/marcin-ignaszak-4311a1172/) to collaborate on exciting projects or just say hello! 😄
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MarcinIgna&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000)](https://github.com/MarcinIgna)
 
